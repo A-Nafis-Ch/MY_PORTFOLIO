@@ -10,7 +10,17 @@ const Home = () => {
                 <p className='text-sm md:text-2xl tracking-tight'>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <button className='mt-5 md:mt-10 texxt-white py-2 px-3 text-sm md:text-lg md:py-4 md:px-6 border border-1 cursor-pointer bg-[#4860AC]'>Contact Me</button>
 
+                
+
+                
+
             </div>
+
+            <div>
+
+                    <img className='' src="../src/assets/Portfolio_Avatar.svg" alt="Avatar" />
+
+                </div>
 
 
 
