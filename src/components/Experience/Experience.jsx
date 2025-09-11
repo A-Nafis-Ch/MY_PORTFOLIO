@@ -30,7 +30,7 @@ const Experience = () => {
 
         {/* Experience Card */}
         <div className="expcards flex justify-center md:justify-start">
-          <div className="card1 text-white bg-[#0D0D0D]/30 w-[200px] md:w-[250px] opacity-90 p-4 flex flex-row items-start gap-4 rounded-lg">
+          <div className="card1 text-white bg-[#0D0D0D]/30 w-[200px] md:w-[300px] opacity-90 p-4 flex flex-row items-start gap-4 rounded-lg">
             {/* Logo */}
             <div>
               <PiXLogoBold size={35} color="#d11837ff" />
