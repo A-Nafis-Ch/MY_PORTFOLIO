@@ -8,7 +8,7 @@ const Experience = () => {
   return (
     <div>
       {/* Header */}
-      <div className="header text-lg md:text-2xl font-bold tracking-tight text-white flex justify-center items-center mt-10 md:mt-20">
+      <div id='Experience' className="header text-lg md:text-2xl font-bold tracking-tight text-white flex justify-center items-center mt-10 md:mt-20">
         EXPERIENCE
       </div>
 
