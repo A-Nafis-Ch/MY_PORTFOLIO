@@ -11,7 +11,7 @@ const About = () => {
                 {/* Left Side - Image */}
                 <div>
                     <img
-                        src="../src/assets/about.svg"
+                        src="/about.svg"
                         alt="About"
                         className="h-[120px] w-[140px] md:h-[200px] md:w-[260px] opacity-100  md:ml-10"
                     />

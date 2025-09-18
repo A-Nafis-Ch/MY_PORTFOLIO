@@ -33,7 +33,7 @@ const Home = () => {
 
             <div>
 
-                <img className='' src="../src/assets/Portfolio_Avatar.svg" alt="Avatar" />
+                <img className='' src="/Portfolio_Avatar.svg" alt="Avatar" />
 
             </div>
 
