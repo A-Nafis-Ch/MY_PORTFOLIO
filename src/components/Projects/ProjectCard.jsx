@@ -22,15 +22,15 @@ const ProjectCard = ({ title, img, desc, srcCode, demo }) => {
       </div>
 
       {/* Bottom: Buttons */}
-      <div className="flex gap-2">
+      <div className="flex justify-center items-center gap-2">
         <a href={srcCode} target="_blank" rel="noopener noreferrer">
-          <button className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded text-white text-sm">
+          <button className="bg-blue-600 hover:bg-blue-700 px-2 md:px-4 md:py-2 rounded text-white text-sm">
             Github
           </button>
         </a>
         <a href={demo} target="_blank" rel="noopener noreferrer">
-        <button className="bg-green-600 hover:bg-green-700 px-4 py-2 rounded text-white text-sm">
-          Live Demo
+        <button className="bg-green-600 hover:bg-green-700 px-2 md:px-4 md:py-2 rounded text-white text-sm">
+          Demo
         </button>
         </a>
       </div>

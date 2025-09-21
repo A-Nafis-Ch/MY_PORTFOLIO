@@ -18,7 +18,7 @@ const Experience = () => {
         id="experience"
       >
         {/* Icons */}
-        <div className="expicons w-full md:w-[300px] grid grid-cols-3 gap-x-6 gap-y-4  md:ml-12 text-center">
+        <div className="expicons w-full md:w-[300px] lg:w-[600px] grid grid-cols-3 gap-x-6 gap-y-4  md:ml-12 lg:ml-24 text-center">
           <FaHtml5 size={40} className="mx-auto" color="#F06529" />
           <FaCss3Alt size={40} className="mx-auto" color="dodgerblue" />
           <FaJsSquare size={40} className="mx-auto" color="orange" />
