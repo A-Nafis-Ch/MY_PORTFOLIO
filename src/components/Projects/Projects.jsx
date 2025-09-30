@@ -14,7 +14,7 @@ const Projects = () => {
       <div className="grid grid-cols-2 lg:grid-cols-3 gap-6 place-items-center">
         <ProjectCard title="Foody Zone" img="/Food Website/HomePage.png" desc="Food Selling Website built with React, HTML, CSS, JS, and Styled-Components." srcCode="https://github.com/A-Nafis-Ch/Foody-Zone-Website-Project.git" demo="#" />
         <ProjectCard title="Twitter X Clone Tailwind CSS" img="/Twitter X Clone/Twitter_X.png" desc="Twitter X Clone Project done using raw html file with TailwindCss." srcCode="https://github.com/A-Nafis-Ch/Twitter-X-Clone-" demo="#"  />
-        <ProjectCard title="Spotify Clone" img="/Spotify Clone/Spotify_Clone.png" desc="Spotify Clone using html, css and JavaScript." srcCode="https://github.com/A-Nafis-Ch/Spotify_Clone" demo="#"  />
+        <ProjectCard title="Spotify Clone" img="/Spotify Clone/Spotify_Template.png" desc="Spotify Clone using html, css and JavaScript." srcCode="https://github.com/A-Nafis-Ch/Spotify__Clone_Website.git" demo="#"  />
         {/* add more <ProjectCard /> as needed */}
       </div>
 
