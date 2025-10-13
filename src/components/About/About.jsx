@@ -16,7 +16,7 @@ const About = () => {
           <img
             src="/about.svg"
             alt="About"
-            className="h-[120px] w-[140px] md:h-[200px] lg:h-[400px] md:w-[260px] lg:w-[520px] opacity-100  md:ml-10 lg::ml-20"
+            className="h-[100px] w-[120px] opacity-100"
           />
         </div>
 
