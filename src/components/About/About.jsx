@@ -11,16 +11,16 @@ const About = () => {
       </h1>
 
       <div className="flex flex-col items-center py-5 ">
-        {/* Left Side - Image */}
+        {/*Image */}
         <div>
           <img
             src="/about.svg"
             alt="About"
-            className="h-[100px] w-[120px] opacity-100"
+            className="h-[60px] w-[80px] opacity-100"
           />
         </div>
 
-        {/* Right Side - Text */}
+        {/*Text */}
         <div className="flex flex-col">
           <div>
             <h1 className="font-bold tracking-tight text-base md:text-xl flex items-center justify-center">
