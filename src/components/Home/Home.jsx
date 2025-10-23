@@ -34,7 +34,7 @@ const Home = () => {
             <div>
                 
 
-                <img className='h-[500px] w-[500px] rounded-full object-cover' alt="Avatar" />
+                <img className='h-[400px] w-[400px] rounded-full object-cover' alt="Avatar" />
 
             </div>
 
