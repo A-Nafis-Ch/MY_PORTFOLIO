@@ -32,8 +32,9 @@ const Home = () => {
             </div>
 
             <div>
+                
 
-                <img className='h-[500px] w-[500px]' src="/PortfolioPic/portfolio.jpg" alt="Avatar" />
+                <img className='h-[500px] w-[200px]' src="/PortfolioPic/portfolio.jpg" alt="Avatar" />
 
             </div>
 
