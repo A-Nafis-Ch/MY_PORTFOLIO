@@ -26,7 +26,7 @@ const About = () => {
             <h1 className="font-bold tracking-tight text-base md:text-xl flex items-center justify-center">
               Frontend Developer
             </h1>
-            <p className="text-sm md:text-lg tracking-tighter text-gray-300">
+            <p className="text-sm md:text-lg tracking-tighter text-gray-300 text-center">
               Detail-oriented and self-motivated Frontend Developer with a
               background in IT infrastructure and support. Proficient in modern
               web technologies including HTML, CSS, JavaScript, Tailwind CSS,
