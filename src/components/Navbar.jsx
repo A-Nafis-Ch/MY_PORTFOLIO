@@ -43,7 +43,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="/MY_PORTFOLIO/Nafis_CV.pdf"
+            href="/Nafis_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="block border text-center md:border-0 hover:text-[20px] hover:text-[#6C63FF]"
