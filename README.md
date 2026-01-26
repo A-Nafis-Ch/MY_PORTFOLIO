@@ -1,4 +1,4 @@
-# [Your Name] - Professional Portfolio
+# [Abdullah Nafis Chowdhury] - Professional Portfolio
 
 A personal portfolio website built with **React.js** to showcase my journey, technical expertise, and the projects I’ve brought to life.
 
@@ -26,7 +26,7 @@ This project serves as my digital business card. It’s a single-page applicatio
 ## 📸 Screenshots
 | Desktop View |
 
-| ![Desktop Screenshot](./public/website) | 
+| ![Desktop Screenshot](./public/website.png) | 
 
 ## 🚀 Installation & Setup
 To run this project locally, follow these steps:
