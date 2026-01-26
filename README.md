@@ -1,4 +1,4 @@
-# [Abdullah Nafis Chowdhury] - Professional Portfolio
+# Abdullah Nafis Chowdhury - Professional Portfolio
 
 A personal portfolio website built with **React.js** to showcase my journey, technical expertise, and the projects I’ve brought to life.
 
@@ -33,4 +33,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/portfolio-repo.git](https://github.com/yourusername/portfolio-repo.git)
+   git clone [https://github.com/yourusername/portfolio-repo.git](https://github.com/yourusername/portfolio-repo.git)](https://github.com/A-Nafis-Ch/MY_PORTFOLIO.git)
