@@ -26,7 +26,7 @@ This project serves as my digital business card. It’s a single-page applicatio
 ## 📸 Screenshots
 | Desktop View |
 
-| ![Desktop Screenshot](./public/website.png) | 
+| ![Desktop Screenshot](./public/website) | 
 
 ## 🚀 Installation & Setup
 To run this project locally, follow these steps:
