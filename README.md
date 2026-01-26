@@ -1,12 +1,36 @@
-# React + Vite
+# [Your Name] - Professional Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with **React.js** to showcase my journey, technical expertise, and the projects I’ve brought to life.
 
-Currently, two official plugins are available:
+[Link to Live Demo]([https://your-portfolio-link.com](https://my-portfolio-sigma-eight-67.vercel.app/))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Overview
+This project serves as my digital business card. It’s a single-page application (SPA) designed to provide a seamless user experience while highlighting my career trajectory and skill set.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Key Sections:
+* **Hero Section:** A brief introduction and my value proposition.
+* **Projects Gallery:** A curated list of my best work with links to GitHub and live demos.
+* **Career Timeline:** A breakdown of my professional experience and education.
+* **Skills:** A visual representation of my tech stack.
+* **CV/Resume:** A downloadable version of my professional resume.
+* **Contact:** An integrated form/social links for networking.
+
+## 🛠 Tech Stack
+* **Frontend:** React.js (Hooks, Functional Components)
+* **Styling:** [e.g., Tailwind CSS / Styled Components / CSS Modules]
+* **Animations:** [e.g., Framer Motion]
+* **Deployment:** [e.g., Vercel / GitHub Pages]
+
+## 📸 Screenshots
+| Desktop View |
+
+| ![Desktop Screenshot](./public/website.png) | 
+
+## 🚀 Installation & Setup
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/portfolio-repo.git](https://github.com/yourusername/portfolio-repo.git)
