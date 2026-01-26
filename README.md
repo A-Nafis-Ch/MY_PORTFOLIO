@@ -34,12 +34,12 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/portfolio-repo.git](https://github.com/yourusername/portfolio-repo.git)](https://github.com/A-Nafis-Ch/MY_PORTFOLIO.git)
-2. **Navigate to the directory:
+2. **Navigate to the directory:**
    ```bash
    cd portfolio-repo
-3. **Install dependencies:
+3. **Install dependencies:**
     ```bash
     npm install
-4. **Start the development server:
+4. **Start the development server:**
    ```bash
    npm start
