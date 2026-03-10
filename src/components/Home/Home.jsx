@@ -14,7 +14,7 @@ const Home = () => {
 
                 <h1 className='text-3xl md:text-6xl w-[140px] h-[150px] md:h-[300px] md:w-[280px] font-bold flex leading-normal tracking-tighter'>
                     <Typewriter
-                        words={['Hi, My name is Nafis!', 'I am a Frontend Developer.', 'I love to code.']}
+                        words={['Hi, My name is Nafis!', 'I am a Full Stack Developer.', 'I love to code.']}
                         loop={true}
                         cursor
                         cursorStyle=""
